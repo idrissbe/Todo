@@ -40,7 +40,7 @@
       <tomcat-servlet-api.version>8.0.32</tomcat-servlet-api.version>
 
       <!-- JUnit -->
-      <junit.version>4.12</junit.version>
+      <junit.version>4.13.1</junit.version>
 
       <!-- POSTGRESQL -->
       <postgresql-driver.version>9.1-901-1.jdbc4</postgresql-driver.version>
