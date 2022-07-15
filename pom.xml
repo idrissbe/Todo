@@ -26,7 +26,7 @@
 
       <!-- Jackson JSON-->
       <jackson.version>1.9.13</jackson.version>
-      <jackson-databind.version>2.6.1</jackson-databind.version>
+      <jackson-databind.version>2.12.6.1</jackson-databind.version>
 
       <!-- Web -->
       <servlet.version>3.1.0</servlet.version>
