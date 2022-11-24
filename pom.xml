@@ -46,7 +46,7 @@
       <postgresql-driver.version>9.1-901-1.jdbc4</postgresql-driver.version>
 
       <!-- Hibernate -->
-      <hibernate-core.version>5.0.7.Final</hibernate-core.version>
+      <hibernate-core.version>5.3.20.Final</hibernate-core.version>
       <hibernate-jpa.version>1.0.0.Final</hibernate-jpa.version>
       <hibernate-validator.version>5.2.3.Final</hibernate-validator.version>
 
